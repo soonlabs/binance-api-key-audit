@@ -85,5 +85,8 @@ Risk Level: HIGH ⚠️
 *	Always use caution when enabling high-risk permissions.
 *	Designed for educational and auditing purposes; not a trading bot.
 
+## License
+
+MIT License © SOON
 
 <p align="center">Made with ❤️ by SOON</p>
