@@ -46,7 +46,7 @@ The tool will then:
 4.	Display detailed recommendations, e.g., disable withdrawals, enable IP whitelist, or enable read-only access.
 5.	Show your current public IP to help verify whitelist settings.
 
-Example Output
+## Example Output
 
 ```bash
 📋 API KEY AUDIT RESULT
@@ -79,7 +79,8 @@ Risk Level: HIGH ⚠️
 ✅ Audit Complete. Stay safe! ✨
 ```
 
-Notes
+## Notes
+
 *	This tool does not store your API keys. Keys are only used to query Binance directly.
 *	Always use caution when enabling high-risk permissions.
 *	Designed for educational and auditing purposes; not a trading bot.
