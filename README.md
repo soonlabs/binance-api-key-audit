@@ -84,3 +84,6 @@ Risk Level: HIGH ⚠️
 *	This tool does not store your API keys. Keys are only used to query Binance directly.
 *	Always use caution when enabling high-risk permissions.
 *	Designed for educational and auditing purposes; not a trading bot.
+
+
+<p align="center">Made with ❤️ by SOON</p>
