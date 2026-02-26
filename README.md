@@ -21,7 +21,7 @@ Make sure you have **Node.js >= 20** installed. Then:
 ```bash
 git clone https://github.com/soonlabs/binance-api-key-audit
 cd binance-api-key-audit
-npm install
+yarn
 ```
 
 ## Usage
